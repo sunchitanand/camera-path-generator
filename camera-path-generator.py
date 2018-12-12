@@ -22,7 +22,7 @@ if selection == "1":
 elif selection == "2" or selection == "3":
 	cam = PinholeCamera(1080.0, 1920.0, 718.8560, 718.8560, 607.1928, 185.2157) #phone camera
 
-vo = VisualOdometry(cam, '00.txt')
+vo = VisualOdometry(cam, 'ground_truth.txt')
 
 traj = np.zeros((600,600,3), dtype=np.uint8)
 
