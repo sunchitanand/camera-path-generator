@@ -11,7 +11,13 @@
 
 [2D Path Tracking - Cars](https://www.youtube.com/watch?v=LbZa1C9mGwQ&t=30s)
 
+
 ## How to Use
+
+- Open termninal and run the command `python camera-path-generator.py`
+- Select the desired option
+
+## How To Use With Your Own Videos
 
  > After downloading/ cloning, save your input video in the project root folder.
  
