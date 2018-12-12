@@ -14,11 +14,16 @@
 ## How to Use
 
  > After downloading/ cloning, save your input video in the project root folder.
+ 
  > Open video2images.m and replace filename by your video name to convert your video into frames 
+ 
  > Save those output frames in a separate folder and name it input_frames
+ 
  > Open camera-path-generator.py and follow instructions in the file to configure 
+ 
  > Open Terminal and run the command:
  ```
  python camera-path-generator.py
  ```
+ 
  > Select your video number and watch the path get generated 
