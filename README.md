@@ -1,4 +1,4 @@
-# Camera Path Generator  
+# Camera Path Generator (Indoor Trajectory Mapping)
 
 ### Get the path your camera has traveled using Monocular Visual Odometry
 
