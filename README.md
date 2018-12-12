@@ -22,8 +22,7 @@
  > Open camera-path-generator.py and follow instructions in the file to configure 
  
  > Open Terminal and run the command:
- ```
- python camera-path-generator.py
- ```
+ 
+ `python camera-path-generator.py`
  
  > Select your video number and watch the path get generated 
