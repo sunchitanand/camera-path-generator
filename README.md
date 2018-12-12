@@ -17,6 +17,10 @@
 - Open termninal and run the command `python camera-path-generator.py`
 - Select the desired option
 
+### Requirements
+- Python
+- OpenCV
+
 ## How To Use With Your Own Videos
 
  > After downloading/ cloning, save your input video in the project root folder.
