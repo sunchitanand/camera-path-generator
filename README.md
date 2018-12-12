@@ -1,6 +1,6 @@
 # Camera Path Generator  
 
-### Get the path your camera has traveled
+### Get the path your camera has traveled using Monocular Visual Odometry
 
 - Can be used in supermarkets to track most vistsed shelves by attaching this technology to carts
 - Can be used to make 2D line floorplans and self operate indoor navigation system using OCR
